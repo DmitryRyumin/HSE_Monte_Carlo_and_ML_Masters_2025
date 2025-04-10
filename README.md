@@ -1,4 +1,6 @@
-<center><h1>Методы Монте-Карло и машинное обучение (магистратура)</h1></center>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=Методы Монте-Карло и машинное обучение (магистратура)&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18" alt="ММК">
+</p>
 
 ## Прериквизиты
 
