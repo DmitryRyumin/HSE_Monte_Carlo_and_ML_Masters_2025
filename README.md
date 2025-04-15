@@ -17,7 +17,7 @@
 
 ### Лекции
 
-#### Лекция 1 (`15.04.2025`)
+#### [Лекция 1 (`15.04.2025`)](https://github.com/DmitryRyumin/HSE_Monte_Carlo_and_ML_Masters_2025/blob/main/tutorials/1.ipynb)
 
 **Введение в методы Монте-Карло.**
 
@@ -86,7 +86,7 @@
 
 ### Семинары
 
-#### Семинар 1 (`15.04.2025`)
+#### [Семинар 1 (`15.04.2025`)](https://github.com/DmitryRyumin/HSE_Monte_Carlo_and_ML_Masters_2025/blob/main/tutorials/1.ipynb)
 
 **Введение и настройка окружения.**
 
